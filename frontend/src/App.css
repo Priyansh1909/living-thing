@@ -1,0 +1,10 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+
+  .form_div{
+    display: flex;
+    justify-content: space-between;
+  }
